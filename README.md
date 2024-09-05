@@ -1,7 +1,3 @@
-i mean 
-convert this read me design 
-to appear like robot and add animatyions and hover effects and make it main color #0077bc
-
 # Hi there, I'm Youssif Salama 👋
 
 ### Full Stack MERN Developer
