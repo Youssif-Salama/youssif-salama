@@ -8,7 +8,7 @@ I have some experience with **hosting**, **VPS** setups, and **SSH**, which has 
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools.
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
