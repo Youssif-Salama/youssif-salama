@@ -1,134 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Youssif Salama - Full Stack MERN Developer</title>
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif;
-            background-color: #0d1b2a;
-            color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            overflow: hidden;
-        }
+i mean 
+convert this read me design 
+to appear like robot and add animatyions and hover effects and make it main color #0077bc
 
-        .container {
-            background-color: #0077bc;
-            padding: 40px;
-            border-radius: 15px;
-            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.8);
-            animation: fadeIn 2s ease-in-out;
-            max-width: 800px;
-        }
+# Hi there, I'm Youssif Salama 👋
 
-        h1, h3 {
-            text-align: center;
-            color: #ffffff;
-        }
+### Full Stack MERN Developer
 
-        h1 {
-            font-size: 2.5rem;
-            text-shadow: 0px 0px 10px #00ffff;
-        }
+I'm a passionate Full Stack Developer with a focus on the **MERN stack** (MongoDB, Express.js, React, Node.js). Currently, I'm expanding my knowledge by learning **Nest.js** and **Jest** to improve my backend and testing skills.
 
-        h3 {
-            font-size: 1.75rem;
-            text-shadow: 0px 0px 5px #ffcc00;
-        }
+I have some experience with **hosting**, **VPS** setups, and **SSH**, which has been valuable in deploying and managing applications.
 
-        .section {
-            margin: 20px 0;
-        }
+---
 
-        .section-title {
-            font-size: 1.5rem;
-            color: #ffffff;
-            margin-bottom: 10px;
-        }
+## 🔧 Technologies & Tools.
 
-        .tech-icon {
-            display: inline-block;
-            margin: 10px;
-            padding: 10px;
-            transition: transform 0.3s ease, background-color 0.3s ease;
-        }
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-        .tech-icon img {
-            width: 50px;
-            height: 50px;
-        }
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-        .tech-icon:hover {
-            transform: translateY(-10px);
-            background-color: rgba(255, 255, 255, 0.1);
-        }
+---
 
-        a {
-            text-decoration: none;
-            color: #ffcc00;
-            transition: color 0.3s ease;
-        }
+## 💼 Professional Experience
+- **Freelance Developer**: Worked on several freelance projects using the MERN stack and more.
+- **Contract with KLXDYI Company**: Developed full stack applications.
+- **Contract with RAI Coimani**: Focused on backend development and database management.
 
-        a:hover {
-            color: #00ffff;
-        }
+---
 
-        /* Keyframe animations */
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(-30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+## 📖 Currently Learning
+- **Nest.js**: Improving my skills in building scalable, maintainable backend applications.
+- **Jest**: Gaining expertise in writing effective tests for JavaScript and TypeScript projects.
 
-        @keyframes pulse {
-            0% {
-                box-shadow: 0 0 10px #0077bc, 0 0 20px #0077bc, 0 0 30px #0077bc;
-            }
-            50% {
-                box-shadow: 0 0 20px #00ffff, 0 0 40px #00ffff, 0 0 60px #00ffff;
-            }
-            100% {
-                box-shadow: 0 0 10px #0077bc, 0 0 20px #0077bc, 0 0 30px #0077bc;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi there, I'm Youssif Salama 👋</h1>
-        <h3>Full Stack MERN Developer</h3>
-        <div class="section">
-            <h4 class="section-title">Technologies & Tools</h4>
-            <div class="tech-icon"><img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></div>
-            <div class="tech-icon"><img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></div>
-            <div class="tech-icon"><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"></div>
-            <!-- Add more technologies as needed -->
-        </div>
-        <div class="section">
-            <h4 class="section-title">💼 Professional Experience</h4>
-            <p>Freelance Developer: Worked on several freelance projects using the MERN stack and more.</p>
-            <p>Contract with KLXDYI Company: Developed full stack applications.</p>
-        </div>
-        <div class="section">
-            <h4 class="section-title">📖 Currently Learning</h4>
-            <p>Nest.js & Jest for building scalable backend applications and writing tests.</p>
-        </div>
-        <div class="section">
-            <h4 class="section-title">📫 How to Reach Me</h4>
-            <p>Email: <a href="mailto:youssifsalama01@gmail.com">youssifsalama01@gmail.com</a></p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/youssif-salama-039506244/">Youssif Salama</a></p>
-        </div>
-    </div>
-</body>
-</html>
+---
+
+## 📊 GitHub Stats
+![Youssif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssif-Salama&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![Youssif's GitHub Streak](https://streak-stats.demolab.com?user=Youssif-Salama&theme=radical)
+
+---
+
+## 📫 How to Reach Me
+* i prefer contact me via email (because linked in has some problems).
+- LinkedIn: [Youssif Salama](https://www.linkedin.com/in/youssif-salama-039506244/)
+- Email: [youssifsalama01@gmail.com](mailto:youssifsalama01@gmail.com)
+
