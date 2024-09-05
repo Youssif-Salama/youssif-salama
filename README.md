@@ -45,16 +45,17 @@ I have some experience with **hosting**, **VPS** setups, and **SSH**, which has 
 ---
 
 ## 📊 GitHub Stats
-![Youssif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssif0001&show_icons=true&theme=radical)
+![Youssif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssif-Salama&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
-![Youssif's GitHub Streak](https://streak-stats.demolab.com?user=youssif0001&theme=radical)
+![Youssif's GitHub Streak](https://streak-stats.demolab.com?user=Youssif-Salama&theme=radical)
 
 ---
 
 ## 📫 How to Reach Me
-- LinkedIn: [Youssif Salama](https://www.linkedin.com/in/youssif-salama)
-- Email: [youssif.email@example.com](mailto:youssif.email@example.com)
+* i prefer contact me via email (because linked in has some problems).
+- LinkedIn: [Youssif Salama](https://www.linkedin.com/in/youssif-salama-039506244/)
+- Email: [youssifsalama01@gmail.com](mailto:youssifsalama01@gmail.com)
 
